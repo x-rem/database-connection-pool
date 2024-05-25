@@ -8,7 +8,7 @@ ConnPoolConsoleApplication.cpp是简单的测试用例
 
 需要将dbconf.json的内容修改为你的数据库配置信息
 
-使用项目前，需要将MySql的include目录和lib目录引入
+使用项目前，需要将MySql的include目录和lib目录引入，以及将libmysql.dll放入Debug/release文件夹
 
 ---
 
